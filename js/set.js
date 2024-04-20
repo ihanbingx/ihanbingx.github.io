@@ -22,13 +22,13 @@ var se_list_preinstall = {
         url: "https://cn.bing.com/search",
         name: "q",
         icon: "iconfont icon-bing",
+    },
     '2': {
         id: 2,
         title: "百度",
         url: "https://www.baidu.com/s",
         name: "wd",
         icon: "iconfont icon-baidu",
-    },
     },
     '3': {
         id: 3,
